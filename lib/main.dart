@@ -52,10 +52,10 @@ class _MyAppState extends State<MyApp> {
       {
         'questionText': 'what\'s your favorite meal?',
         'answers': [
-          {'text': '2ol2as', 'score': 5},
-          {'text': 'Wra2 3nb', 'score': 1},
-          {'text': 'btats m7mra', 'score': 0},
-          {'text': 'shawrma', 'score': 2},
+          {'text': 'Burgers', 'score': 5},
+          {'text': 'soup', 'score': 1},
+          {'text': 'salad', 'score': 0},
+          {'text': 'fries', 'score': 2},
         ],
       },
     ];
